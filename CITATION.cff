@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Farag"
+  given-names: "Mina"
+  orcid: "https://orcid.org/0000-0002-6457-6848"
+- family-names: "Borcherds"
+  given-names: "Wade"
+- family-names: "Bremer"
+  given-names: "Anne"
+- family-names: "Mittag"
+  given-names: "Tanja"
+- family-names: "Pappu"
+  given-names: "Rohit"
+title: "Phase Separation of Protein Mixtures is Driven by the Interplay of Homotypic and Heterotypic Interactions"
+repository name: "Data-and-Analysis-for-PLCD-Mixtures"
+version: 1.0.0
+url: "https://github.com/Pappulab/Data-and-Analysis-for-PLCD-Mixtures"
