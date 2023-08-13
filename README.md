@@ -1,5 +1,6 @@
 # Data-and-Analysis-for-PLCD-Mixtures
-Data and Analysis code used in the following paper
+Data and Analysis code used in the following paper "Phase Separation of Protein Mixtures is Driven by the Interplay of Homotypic and Heterotypic Interactions"
+
 
 The PLCD_Sequences directory contains the sequences found in the bioinformatics analysis using the DrLLPS database and the PLAAC analyzer. The files that end in "PLCD.fasta" list the PLCDs of the sequences associated with the given condensate. Those that end in "PLCD_Full_Seq.fasta" list the full sequences.
 
